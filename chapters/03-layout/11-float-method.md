@@ -1,4 +1,4 @@
-# 10. Float Method
+# 11. Float Method
 
 ## Resources
 - [Code you will need for this section](/assets/exercises/03/code)
