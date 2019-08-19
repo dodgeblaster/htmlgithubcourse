@@ -70,3 +70,5 @@ What I will be giving marks for:
 - 2 - Do all the links take me to the correct section
 - 3 - Is there a Mobile Menu
 - 4 - Is it responsive
+
+[Click here to see the desktop mock.](./assets/assignment3/bootstrap-desktop.png)
