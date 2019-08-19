@@ -71,4 +71,6 @@ What I will be giving marks for:
 - 3 - Is there a Mobile Menu
 - 4 - Is it responsive
 
-[Click here to see the desktop mock.](./assets/assignment3/bootstrap-desktop.png)
+- [Click here to see the desktop mock.](./assets/assignment3/bootstrap-desktop.png)
+- [Click here to see the mobile mock.](./assets/assignment3/bootstrap-mobile.png)
+- [Click here for project assets.](./assets/assignment3/bootstrap-assets.zip)
