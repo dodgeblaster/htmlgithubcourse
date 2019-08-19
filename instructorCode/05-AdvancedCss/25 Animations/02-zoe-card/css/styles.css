@@ -1,0 +1,161 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Base
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #2f3238;
+}
+
+.wrapper {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Nav
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
+nav {
+    padding: 10px 0;
+    height: 80px;
+    width: 100%;
+    background: #222;
+    color: white;
+}
+
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Hero
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.hero {
+    padding: 10px 0;
+    height: 300px;
+    width: 100%;
+    background: #ccc;
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Main
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
+main {
+    padding: 10px 0;
+    height: 600px;
+    width: 100%;
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Card
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.card {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background: #555;
+    position: relative;
+    overflow: hidden;
+}
+
+.card > p {
+    color: white;
+    margin: 80px 20px;
+    transition: 0.2s;
+    opacity: 0;
+    transform: translate(0px, 30px)
+}
+
+.card:hover p {
+    opacity: 1;
+    transform: translate(0px, 0px)
+    
+}
+
+.card-content {
+    background: white;
+    height: 60px;
+    position: absolute;
+    bottom: 0;
+    color: #3c4a50;
+    padding: 20px;
+    width: 100%;
+    transition: 0.2s;
+    transform: translate(0px, 60px);
+
+    display: flex;
+    align-items: center;
+}
+
+.card-content p {
+    margin: 0;
+    margin-right: auto;
+    transition: 0.2s;
+    transform: translate(0px, 60px)
+}
+
+.card-content i {
+    margin-left: 10px;
+}
+
+.card:hover .card-content {
+    transform: translate(0px, 0px)
+}
+
+.card:hover .card-content p {
+    transform: translate(0px, 0px)
+}
+
+.card i {
+    transition: 0.2s;
+    transform: translate(0px, 60px)
+}
+
+.card:hover i {
+    transform: translate(0px, 0px)
+}
+
+.card i:nth-child(1) {
+    transition-delay: 0.1s;
+}
+
+.card i:nth-child(2) {
+    transition-delay: 0.15s;
+}
+
+.card i:nth-child(3) {
+    transition-delay: 0.2s;
+}
+
+
+
+
+
+
+
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Footer
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
+footer {
+    padding: 10px 0;
+    background: #222;
+    height: 300px;
+    width: 100%;
+    color: white;
+}

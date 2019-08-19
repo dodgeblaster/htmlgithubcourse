@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Whatever Name I Want';
+    src: url('../fonts/OpenSans-Regular.ttf')
+}
+
+@font-face {
+    font-family: 'Whatever Name I Want Bold';
+    src: url('../fonts/OpenSans-Bold.ttf')
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Whatever Name I Want', sans-serif;
+}
+
+p {
+    font-size: 16px;
+    /* font-weight: 600; */
+    
+    /* font-style: italic; */
+    /* letter-spacing: 2px; */
+    line-height: 1.6;
+    font-family: "Arial", sans-serif;
+}

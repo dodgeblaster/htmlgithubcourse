@@ -1,0 +1,34 @@
+.box {
+    background: red;
+    height: 100px;
+    width:800px;
+}
+
+.box p {
+    font-size: 20px;
+}
+
+.box-relative-container {
+    background: green;
+    width: 80%;
+    /* height: 100px; */
+}
+
+.box-relative {
+    background: pink;
+    width: 50%;
+    /* height: 100px; */
+}
+
+.box-relative p {
+    /* width: 400px; */
+    font-size: 20%;
+}
+
+.em-container {
+    font-size: 2em;
+}
+
+.em-container-2 {
+    font-size: 2em;
+}

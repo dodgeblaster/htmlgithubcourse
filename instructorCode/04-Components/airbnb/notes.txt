@@ -1,0 +1,157 @@
+site reference:
+https://www.airbnb.ca/host/experiences?from_nav=1
+
+
+FONT
+------------------------------------------------
+link
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+
+styles
+font-family: 'Roboto', sans-serif;
+
+
+
+
+Image Urls
+------------------------------------------------
+01-experiences
+https://a0.muscache.com/airbnb/static/9733e0893560691b9af2e4b41bc03a77.jpg
+
+02-passion
+https://a0.muscache.com/airbnb/static/5b70fed8387ea2930cc1ff08219674e0.jpg
+
+03-interesting
+https://a0.muscache.com/airbnb/static/a7eb1de4419bc1d2841a6a4df86f7e11.jpg
+
+04-phone
+https://a0.muscache.com/airbnb/static/11811fd0da72386eff4ac2804057ca3a.png
+
+05-phone-2
+https://a0.muscache.com/airbnb/static/cba581974e4fde306750b6e4993cc9bf.png
+
+06-dj
+https://a0.muscache.com/airbnb/static/33fe292c03db35d3368964246e56ca41.jpg
+
+07-toby
+https://a0.muscache.com/airbnb/static/443df6cb6e01bb61f34b244037eb7186.jpg
+
+08-mio
+https://a0.muscache.com/airbnb/static/6404df5d5748fefc0083466304c68af6.jpg
+
+
+
+
+Content:
+
+Nav
+----------------------------------------
+Logo
+Saved
+Trips
+Messages
+Help
+
+
+
+
+Hero:
+----------------------------------------
+Host an experience on Airbnb
+Earn money leading people on activities you love.
+Get Started
+Learn More
+
+
+
+Section 1:
+----------------------------------------
+What are Airbnb Experiences?
+Airbnb Experiences are activities designed and led by inspiring locals. They go beyond typical tours or classes by immersing guests in each host’s unique world. It’s an opportunity for anyone to share their hobbies, skills, or expertise without needing an extra room.
+
+
+Section 2:
+----------------------------------------
+Share your passion with the world
+Introduce guests to the activities and places you’re most passionate about. We’ll help you design your experience step by step, with plenty of resources along the way.
+
+
+Section 3:
+----------------------------------------
+Meet interesting people
+Connect with a community of travellers and locals who share your interests. You might make a few new friends, learn from fellow enthusiasts, or get someone excited about a new hobby.
+
+
+Section 4:
+----------------------------------------
+Host on your terms
+Set a schedule that works for you, whether you host daily, weekly, or monthly. Pick your price and group size, and manage all the details on the go with a convenient mobile app.
+
+
+Section 5:
+----------------------------------------
+Start a business with no upfront costs
+You’ll get your own page on Airbnb that travellers can use to book your experience. Airbnb handles payment processing, provides 24-hour customer service, and covers liability insurance.
+
+
+
+3 Tile Section
+----------------------------------------
+Meet the host community
+Hosts are chefs, artists, and other in-the-know locals like you who give their guests access to activities and places they can’t typically find on their own. They make everyone feel welcome, and help people in a group connect with one another.
+
+Tile 1
+DJ Jigüe
+DJ Jigüe is dedicated to sharing his passion for Afro-Cuban music. Some of the guests he’s exposed to Cuba’s complex musical history even went to see him play a show in Austin, Texas.
+
+Tile 2
+Toby
+Toby has been hosting Airbnb guests in her San Francisco home for years.  Now she’s opened up her art studio to teach painting techniques to travellers and locals alike.
+
+Tile 3
+Mio
+After studying sewing at an art college, Mio created a kimono dressing ceremony to simplify the art of kimono wearing. Now she shares her personalized ceremony with guests, and sells her creations online.
+
+
+
+Footer
+----------------------------------------
+Airbnb
+Careers
+Press
+Policies
+Help
+Diversity & Belonging
+
+
+Discover
+Trust & Safety
+Invite Friends
+Airbnb Citizen
+Business Travel
+Guidebooks
+Airbnbmag
+Events
+
+Hosting
+Why Host
+Refer Hosts
+Hospitality
+Responsible Hosting
+Community Centre
+Open Homes
+
+Icons (Facebook, Twitter, Instagram)
+Terms
+Privacy
+Site Map
+
+
+
+
+Company Logo inline SVG
+----------------------------------------
+<svg viewBox="0 0 1000 1000" role="presentation" aria-hidden="true" focusable="false" style="height: 1em; width: 1em; display: block; fill: currentcolor;"><path d="m499.3 736.7c-51-64-81-120.1-91-168.1-10-39-6-70 11-93 18-27 45-40 80-40s62 13 80 40c17 23 21 54 11 93-11 49-41 105-91 168.1zm362.2 43c-7 47-39 86-83 105-85 37-169.1-22-241.1-102 119.1-149.1 141.1-265.1 90-340.2-30-43-73-64-128.1-64-111 0-172.1 94-148.1 203.1 14 59 51 126.1 110 201.1-37 41-72 70-103 88-24 13-47 21-69 23-101 15-180.1-83-144.1-184.1 5-13 15-37 32-74l1-2c55-120.1 122.1-256.1 199.1-407.2l2-5 22-42c17-31 24-45 51-62 13-8 29-12 47-12 36 0 64 21 76 38 6 9 13 21 22 36l21 41 3 6c77 151.1 144.1 287.1 199.1 407.2l1 1 20 46 12 29c9.2 23.1 11.2 46.1 8.2 70.1zm46-90.1c-7-22-19-48-34-79v-1c-71-151.1-137.1-287.1-200.1-409.2l-4-6c-45-92-77-147.1-170.1-147.1-92 0-131.1 64-171.1 147.1l-3 6c-63 122.1-129.1 258.1-200.1 409.2v2l-21 46c-8 19-12 29-13 32-51 140.1 54 263.1 181.1 263.1 1 0 5 0 10-1h14c66-8 134.1-50 203.1-125.1 69 75 137.1 117.1 203.1 125.1h14c5 1 9 1 10 1 127.1.1 232.1-123 181.1-263.1z"></path></svg>
+
+
+

@@ -1,0 +1,46 @@
+/* * * * * * * * * * * * * * * * *
+Base
+* * * * * * * * * * * * * * * * */
+.wrapper {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1000px;
+    padding-top: 100px;
+}
+
+a {
+    padding: 10px 20px;
+    background: #09c;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+a:hover {
+    background: #07a;
+}
+
+a:active {
+    background: green;
+}
+
+a:visited {
+    background: black;
+}
+
+input {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: 1px solid #d3d3d3;
+    outline: none;
+    border: 2px solid transparent;
+
+}
+
+input:focus {
+    border: 1px solid #000;
+    background: #c3c3c3
+}
+

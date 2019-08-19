@@ -1,0 +1,61 @@
+.static-container {
+    padding: 20px;
+    margin: 20px;
+    background: #ddd;
+    display: inline-block;
+    vertical-align: top;
+    height: 180px;
+    width: 180px;
+    position: static;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background: #222;
+    position: fixed;
+    z-index: 100;
+}
+
+.hero {
+    height: 200px;
+    background: coral;
+}
+
+.pink-box-1, .pink-box-2, .pink-box-3 {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    background: #FF5555;
+    color: white;
+    position: static;
+}
+
+.pink-box-1 {
+    position: relative;
+    top: 30px;
+    bottom: 0;
+    left: 200px;
+    right: 0;
+}
+
+.pink-box-2 {
+    position: relative;
+    top: 30px;
+    bottom: 0;
+    left: 200px;
+    right: 0;
+}
+
+.pink-box-3 {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: green;
+}

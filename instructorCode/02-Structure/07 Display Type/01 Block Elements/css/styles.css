@@ -1,0 +1,15 @@
+h1, p, .div1 {
+    background: coral;
+    width: 200px;
+}
+
+button, a, span {
+    background: steelblue;
+}
+
+.box {
+    background: red;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}

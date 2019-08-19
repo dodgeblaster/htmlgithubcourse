@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1000px;
+    padding-top: 100px;
+}
+
+a {
+    padding: 10px 20px;
+    background: #09c;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+a:first-child {
+    background: black;
+}
+
+
+a:nth-child(3) {
+    background: red;
+}
+
+a:nth-child(even) {
+    background: yellow;
+}
+
+
+a:nth-child(n + 3) {
+    background: purple;
+}
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+.team-section {
+    background: lightgray;
+}
+
+#red-header {
+    color: coral;
+}
+
+.green {
+    color: green;
+}
+
+.better-red {
+    color: crimson;
+}
+
+.red {
+    color: red;
+}
+
+
+
+.blue {
+    color: blue;
+}
+
+.purple {
+    color: purple;
+}
+
+
+.team-section p {
+    opacity: 0.3;
+}

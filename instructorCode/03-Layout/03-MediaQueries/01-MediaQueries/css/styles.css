@@ -1,0 +1,25 @@
+.box {
+    width: 100%;
+    height: 400px;
+    background: red;
+}
+
+.large {
+    width: 100%;
+}
+
+@media screen and (max-width: 900px) {
+    .box {
+        background: yellow;
+    }
+
+    .medium {
+        width: 50%;
+    }
+}
+
+@media (max-width: 600px) {
+    .box {
+        background: blue;
+    }
+}

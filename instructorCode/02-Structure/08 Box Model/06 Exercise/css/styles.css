@@ -1,0 +1,27 @@
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+
+header {
+    margin-top: 0;
+    padding: 20px;
+    background: steelblue;
+    height: 200px;
+}
+
+section {
+    padding: 20px;
+    background: grey;
+    height: 200px;
+}
+
+footer {
+    padding: 20px;
+    background: #222;
+    color: white;
+    height: 200px;
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form 
+        action="https://form-submit.com" 
+        method='post'
+    >
+        <fieldset>
+            <legend>Description of section</legend>
+            <!-- TEXT INPUT -->
+            <label for='username'>
+                UserName
+                <input 
+                    type='text' 
+                    id='username'
+                    name='username' 
+                    placeholder='example'/>
+            </label>
+
+            <!-- TEXT AREA -->
+            <textarea name='textarea'></textarea>
+        </fieldset>
+
+
+        <!-- SELECT INPUT -->
+        <select name='select'>
+            <option value='one'>One</option>
+            <option value='two'>Two</option>
+            <option value='three'>Three</option>
+        </select>
+        <br/>
+
+        <!-- RADIO INPUT -->
+        <input 
+            type='radio'
+            name='city'
+            value='calgary'
+            id='calgary'/>
+        <label for='calgary'>Calgary</label>
+
+        <input 
+            type='radio'
+            name='city'
+            value='edmonton'
+            id='edmonton'/>
+        <label for='edmonton'>Edmonton</label>
+
+        
+        <br />
+
+        <!-- CHECKBOX INPUT -->
+        <input 
+            type='checkbox' 
+            name='province'
+            value='alberta'
+            id='alberta'/>
+        <label for='alberta'>Alberta</label>
+
+        <input 
+            type='checkbox' 
+            name='province'
+            value='bc'
+            id='bc'/>
+        <label for='bc'>BC</label>
+
+
+
+
+        <!-- SUBMIT 
+        this is note for me
+        
+        -->
+        <input type='submit' value='OK'/>
+
+
+
+    </form>
+
+    
+</body>
+</html>

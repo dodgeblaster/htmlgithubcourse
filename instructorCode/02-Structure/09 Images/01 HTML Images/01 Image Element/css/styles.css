@@ -1,0 +1,65 @@
+/*  Genral section */
+
+
+
+/* Header Section */
+header {
+    height: 80px;
+    background: #222;
+}
+
+
+
+/* Hero Section */
+.hero {
+    height: 600px;
+    background: #444;
+    background: 
+        linear-gradient(
+            120deg, 
+            rgba(70,19,64,0) 80%, 
+            rgba(70,19,64,1)
+        ),
+        url('../img/img-3.jpg');
+
+    background-size: cover;
+    background-position: 50% 50%;
+
+
+
+
+
+
+
+}
+
+
+
+/* Card Section */
+section {
+    margin: 80px 0;
+}
+
+.card {
+    height: 480px;
+    width: 300px;
+    background: #fff;
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+    margin-bottom: 20px;
+
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card-description {
+    padding: 20px;
+}
+
+.img-container {
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}

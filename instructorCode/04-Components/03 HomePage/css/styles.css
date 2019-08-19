@@ -1,0 +1,200 @@
+/* * * * * * * * * * * * * * * * * * * * *
+General
+* * * * * * * * * * * * * * * * * * * * */
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.debugger {
+    background: red;
+}
+
+
+
+
+
+
+
+/* * * * * * * * * * * * * * * * * * * * *
+Header
+* * * * * * * * * * * * * * * * * * * * */
+header {
+    height: 66px;
+    background: white;
+}
+
+/* header .container {
+    height: 66px;
+} */
+
+.logo {
+    width: 100px;
+    color: #ef7547;
+    margin-right: auto;
+}
+
+.logo span {
+    margin-left: 10px;
+}
+
+
+header ul {
+    margin-bottom: 0;
+    display: flex;
+}
+
+header ul li {
+    list-style: none;
+}
+
+header ul li a {
+    height: 66px;
+    padding: 0 15px;
+
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    color: #aaa;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+header ul li a:hover {
+    background: #f3f3f3;
+    text-decoration: none;
+    color: #777;
+}
+
+.hamburger-icon {
+    display: none;
+    background: transparent;
+    border: none;
+}
+
+@media (max-width: 600px) {
+    header ul {
+        display: none;
+    }
+
+    .hamburger-icon {
+        display: block;
+    }
+}
+
+
+
+
+
+/* * * * * * * * * * * * * * * * * * * * *
+Hero
+* * * * * * * * * * * * * * * * * * * * */
+.hero {
+    color: white;
+    padding-top: 80px;
+    height: 600px;
+    background: 
+        linear-gradient(
+            90deg, 
+            rgba(0,0,0,0.4), 
+            rgba(0,0,0,0)), 
+        url('https://www.google.com/chromebook/static/images/features-hero.jpg');
+    background-size: cover;
+    background-position: 100% 50%;
+}
+
+.hero-content {
+    width: 50%;
+}
+
+.hero h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    margin: 0;
+    font-weight: 700;
+}
+
+.hero hr {
+    border-color: white;
+}
+
+.hero button {
+    color: white;
+    border: none;
+    background: #ef7547;
+    padding: 10px 20px;
+}
+
+.hero button:hover {
+    cursor: pointer;
+    background: #f18a64;
+}
+
+@media screen and (max-width: 600px) {
+    .hero {
+        height: 400px;
+    }
+
+    .hero-content {
+        width: 100%;
+    }
+}
+
+
+
+
+/* * * * * * * * * * * * * * * * * * * * *
+Main
+* * * * * * * * * * * * * * * * * * * * */
+main {
+    min-height: 400px;
+    padding: 80px 0;
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * *
+Footer
+* * * * * * * * * * * * * * * * * * * * */
+footer {
+    height: 300px;
+    background: #e3e3e3;
+    padding: 40px 0 80px;
+}
+
+footer h2 {
+    color: #4d4d4d;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    margin: 0 0 20px 0;
+}
+
+footer ul {
+    margin: 0 0 30px 0;
+    padding: 0;
+}
+
+footer li {
+    list-style: none;
+    margin-top: 8px;
+}
+
+footer a {
+    color: #b8b8b8;
+    text-decoration: none;
+    font-size: 0.8em;
+    font-weight: 300;
+}
+
+.social-icons {
+    display: flex;
+}
+
+.social-icons li {
+    flex: 1;
+}

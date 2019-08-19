@@ -1,0 +1,14 @@
+.main, .secondary {
+    display: inline-block;
+    margin-right: -4px;
+    vertical-align: top;
+}
+
+.main {
+    width: 60%;
+    margin-right: calc(20px - 4px);
+}
+
+.secondary {
+    width: calc(40% - 20px);
+}

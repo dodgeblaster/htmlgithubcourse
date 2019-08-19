@@ -1,0 +1,35 @@
+/* PARENT */
+.flex-container {
+    width: 70%;
+    margin: 100px auto 0;
+    background: #f55574;
+    height: 100px;
+    padding: 10px;
+
+    display: flex;
+
+    /* values: row, column */
+    flex-direction: row; 
+    justify-content: space-between;
+    align-items: center;
+
+    flex-wrap: wrap;
+}
+
+/* CHILD */
+.box {
+    height: 80px;
+    width: 100px;
+    background: #45b5e9;
+    margin: 10px;
+    flex-basis: 100px;
+}
+
+.logo {
+    height: 60px;
+    width: 60px;
+    background: white;
+    border-radius: 50px;
+}
+    
+

@@ -1,0 +1,61 @@
+body {
+    padding: 80px;
+}
+
+/* Transitions */
+/* 
+.box {
+    height: 100px;
+    width: 100px;
+    background: #f44;
+    transition-duration: 2s;
+    transition-property: background width;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0.2s;
+    transition: background 1s ease-in-out 0.0;
+    transition: background 1s;
+    transition: 1s;
+}
+
+.box:hover {
+    background: #44f;
+    width: 600px;
+    
+} */
+
+
+
+/* Transforms */
+
+.container {
+    background: green;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 2px;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    
+    background: #f44;
+    transition: 0.2s;
+    /* transform: rotate(120deg); */
+    /* transform: scale(1);
+    transform-origin: 0 0; */
+    transform: translate(0px, 0px);
+}
+
+.container:hover .box {
+    /* transform: scale(1.1) */
+    /* transform: rotate(120deg); */
+    transform: translate(100px, 100px);
+}
+
+
+
+
+
+
+
+
