@@ -42,4 +42,4 @@ I will be giving 5 points for each page for a total of 25 points:
 - 4 - Is the font easy to read
 - 5 - Are you using one of the strategies we went over for color
 
-Click [here](../../../assets/assignment1) for the starter files for this assignment.
+Click [here](/assets/assignment1) for the starter files for this assignment.
