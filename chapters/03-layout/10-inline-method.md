@@ -1,7 +1,7 @@
 # 10. Inline Method
 
 ## Resources
-- [Code you will need fore this section]()
+- [Code you will need fore this section](/assets/exercises/03/code)
 
 ## Schedule
 
