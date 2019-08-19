@@ -1,7 +1,7 @@
 # 10. Float Method
 
 ## Resources
-- [Code you will need fore this section](/assets/exercises/03/code)
+- [Code you will need for this section](/assets/exercises/03/code)
 - [Article on how float works](https://www.hongkiat.com/blog/css-floats/)
 - [9 Rules of Float](https://designshack.net/articles/css/everything-you-never-knew-about-css-floats/)
 
