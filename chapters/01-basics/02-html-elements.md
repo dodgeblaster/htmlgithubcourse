@@ -1,4 +1,4 @@
-# 1. HTML Elements
+# 2. HTML Elements
 
 ## Reading
 - Chapter 2,3,4
