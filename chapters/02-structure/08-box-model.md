@@ -1,6 +1,6 @@
 # 8. Box Model
 
-# Reading
+## Reading
 - Chapter 13
 
 ## Schedule
